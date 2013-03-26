@@ -148,3 +148,9 @@ border-bottom: 1px solid #fff !important;
 .tabs-newtab-button:hover:active {
   -moz-image-region: rect(0px, 84px, 18px, 56px)!important;
 }
+
+select > button,
+select > input
+{
+    opacity:0!important;
+}
